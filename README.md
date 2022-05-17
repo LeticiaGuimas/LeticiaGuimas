@@ -2,10 +2,10 @@
   <div align= "center">
 <a href="https://ibb.co/LzTjxnN">
   </div>
-    <img height= "500" src="https://i.ibb.co/qMHqNkJ/github.jpg" alt="Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021" border="0"></a>
+    <img height= "1000" src="https://i.ibb.co/qMHqNkJ/github.jpg" alt="Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021" border="0"></a>
 </div>
 
-<div align= "left">
+<div align= "center">
   <div> 
   <a href="https://www.linkedin.com/in/leticiaguimas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/leticiaguimas" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
