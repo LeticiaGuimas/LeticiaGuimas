@@ -2,7 +2,7 @@
   <div align= "center">
 <a href="https://ibb.co/LzTjxnN">
   </div>
-    <img height= "1000" src="https://i.ibb.co/qMHqNkJ/github.jpg" alt="Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021" border="0"></a>
+    <img height= "1000" width= "2500" src="https://i.ibb.co/RyGNH49/Leticia-guimaraes-trajetoria.jpg" alt="Leticia-guimaraes-trajetoria" border="0">
 </div>
 
 <div align= "center">
