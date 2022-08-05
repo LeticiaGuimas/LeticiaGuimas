@@ -2,7 +2,7 @@
   <div align= "center">
 <a href="https://ibb.co/LzTjxnN">
   </div>
-    <img height= "800" src="https://i.ibb.co/RyGNH49/Leticia-guimaraes-trajetoria.jpg" alt="Leticia-guimaraes-trajetoria" border="0">
+    <img height= "500" src="https://i.ibb.co/RyGNH49/Leticia-guimaraes-trajetoria.jpg" alt="Leticia-guimaraes-trajetoria" border="0">
 </div>
 
 <div align= "center">
