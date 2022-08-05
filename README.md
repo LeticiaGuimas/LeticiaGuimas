@@ -1,6 +1,6 @@
 
   <div align= "center">
-<a href="https://ibb.co/LzTjxnN">
+<a href="https://ibb.co/vYChzvH">
   </div>
     <img height= "500" src="https://i.ibb.co/RyGNH49/Leticia-guimaraes-trajetoria.jpg" alt="Leticia-guimaraes-trajetoria" border="0">
 </div>
