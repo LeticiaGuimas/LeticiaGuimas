@@ -4,7 +4,7 @@
 
 <a href="https://app.daily.dev/leticiaguimas"><img align="right" src="https://api.daily.dev/devcards/67332fb02b0640d28825ef3b846abf33.png?r=kmt" width="360" alt="Leticia Guimas's Dev Card"/></a>
 <br>
-- 🤵 I'm studying technologist in Systems Analysis and Development.
+- 👩‍💻 I'm studying technologist in Systems Analysis and Development.
 
 - 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
 
