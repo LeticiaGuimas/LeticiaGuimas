@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Letícia+Guimas;I'm+30+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Mobile+Development+with+Flutter;I'm+studying+technologist+in+Systems+Analysis+and+Development;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
 
-<p align="center"><img width="90%" alt="Coding" src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif"></p>
+<p align="center"><img width="50%" alt="Coding" src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif"></p>
   <div align= "center">
 <a href="https://ibb.co/vYChzvH">
   </div>
