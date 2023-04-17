@@ -32,9 +32,29 @@
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,gitlab,postman " alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=fastapi,figma,firebase,sass" alt="skills planning to learn logos"><br> 
-  
 </div>
 <hr>
+<h2 align="center">Activity</h2>
+<table>
+    <tr>
+        <th>
+            <p align="center">
+            <img src="https://streak-stats.demolab.com?user=LeticiaGuimas&background=000000&hide_border=true&border_radius=8.6&fire=AD0CDA&stroke=6500C99D&ring=6E00DAEA&currStreakNum=AD0CDA&sideLabels=FFFFFF&currStreakLabel=FFFFFF&sideNums=AD0CDA&border=FFFFFF" />
+            </p>
+        </th>
+        <th>
+            <p align="center">
+                <img src="https://github-readme-stats.vercel.app/api?username=LeticiaGuimas&show_icons=true&theme=midnight-purple&border=none" /> 
+            </p>
+        </th>
+    </tr>
+</table>
+<p align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaGuimas&layout=compact&hide_border=false&theme=midnight-purple" />
+</p>
+<p align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=LeticiaGuimas&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
+</p>
   <div align= "center">
 <a href="https://ibb.co/vYChzvH">
   </div>
