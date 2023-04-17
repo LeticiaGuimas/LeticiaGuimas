@@ -29,11 +29,12 @@
   <h2> <strong> Actively Learning </strong></h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,py,mysql,git" alt="skills actively learning logos"> <br> 
   <h2> <strong> Tools </strong> </h2>
-  <img src="https://skillicons.dev/icons?i=vscode," alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,gitlab,postman " alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=fastapi,figma,firebase,saas" alt="skills planning to learn logos"><br> 
+  <img src="https://skillicons.dev/icons?i=fastapi,figma,firebase,sass" alt="skills planning to learn logos"><br> 
   
 </div>
+<hr>
   <div align= "center">
 <a href="https://ibb.co/vYChzvH">
   </div>
