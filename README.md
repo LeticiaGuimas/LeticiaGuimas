@@ -23,8 +23,17 @@
 </div>
 <br><br>
 <hr>
-<br>
 <p align="center"><img width="50%" alt="Coding" src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif"></p>
+<hr>
+<div align="center">
+  <h2> <strong> Actively Learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter,py,mysql,git" alt="skills actively learning logos"> <br> 
+  <h2> <strong> Tools </strong> </h2>
+  <img src="https://skillicons.dev/icons?i=vscode," alt="skills actively learning logos"> <br> 
+  <h2> <strong> Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=fastapi,figma,firebase,saas" alt="skills planning to learn logos"><br> 
+  
+</div>
   <div align= "center">
 <a href="https://ibb.co/vYChzvH">
   </div>
