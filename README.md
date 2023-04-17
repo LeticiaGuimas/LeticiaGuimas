@@ -6,19 +6,19 @@
 <br>
 - 👩‍💻 I'm studying technologist in Systems Analysis and Development.
 
-- 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
+- 💼 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
 
-- 🤖 I like to learn new things and ideas, technologies and meet new people!
+- 🐱 I like to learn new things and ideas, technologies and meet new people!
 
-- 🌱 I’m currently learning **Flutter, Python, Dart**.
+- 📖 I’m currently learning **Flutter, Python, Dart**.
 
 - 💻 All of my projects are available at [LeticiaGuimas](https://github.com/LeticiaGuimas?tab=repositories).
 
-- 💬 Ask me about **Cats, Flutter, Dart, Python, MySql, Html5,<br> Css3 & JS**.
+- ☕️ Ask me about **Cats, Flutter, Dart, Python, MySql, Html5,<br> Css3 & JS**.
 
-- 📫 How to reach me **leticia_guimaraes2025@hotmail.com**.
+- 💌 How to reach me **leticia_guimaraes2025@hotmail.com**.
 <br>
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;<i>An ordinary traveler with an insatiable curiosity...</i>&ensp;</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;<i>Coffee, Cats, Crochet, and Technology ❤️</i>&ensp;</h3>
 
 </div>
 <br><br>
@@ -65,7 +65,7 @@
 </div>
 -->
 <div align= "center">
-  <h2 align="center">🐱&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🐱</h2>
+  <h2 align="center">🐱☕️ &ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;☕️🐱</h2>
   <div> 
   <a href="https://www.linkedin.com/in/leticiaguimas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/leticiaguimas" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
