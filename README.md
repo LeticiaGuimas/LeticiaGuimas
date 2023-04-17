@@ -55,13 +55,16 @@
 <p align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=LeticiaGuimas&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
 </p>
-  <div align= "center">
+<hr>
+
+  <!--<div align= "center">
 <a href="https://ibb.co/vYChzvH">
   </div>
     <img height= "500" src="https://i.ibb.co/RyGNH49/Leticia-guimaraes-trajetoria.jpg" alt="Leticia-guimaraes-trajetoria" border="0">
 </div>
-
+-->
 <div align= "center">
+  <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
   <div> 
   <a href="https://www.linkedin.com/in/leticiaguimas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/leticiaguimas" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
