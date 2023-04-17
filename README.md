@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter, Python, Dart**.
 
-- 👨‍💻 All of my projects are available at [LeticiaGuimas](https://github.com/LeticiaGuimas?tab=repositories).
+- 💻 All of my projects are available at [LeticiaGuimas](https://github.com/LeticiaGuimas?tab=repositories).
 
 - 💬 Ask me about **Cats, Flutter, Dart, Python, MySql, Html5,<br> Css3 & JS**.
 
