@@ -1,5 +1,29 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Letícia+Guimas;I'm+30+Years+Old;I'm+From+Santo+André,+SP+-+Brazil;I+Work+in+Mobile+Development+with+Flutter;I'm+studying+technologist+in+Systems+Analysis+and+Development;Welcome+And+Enjoy!+:%29)](https://git.io/typing-svg)
+<div>
+<h2 align="center">📚&ensp; <i>A B O U T &nbsp; M E</i> &ensp;📚</h2>
 
+<a href="https://app.daily.dev/leticiaguimas"><img align="right" src="https://api.daily.dev/devcards/67332fb02b0640d28825ef3b846abf33.png?r=kmt" width="360" alt="Leticia Guimas's Dev Card"/></a>
+<br>
+- 🤵 I'm web developer and Bachelor's Degree in Computer Science.
+
+- 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
+
+- 🤖 I like to learn new things and ideas, technologies and meet new people!
+
+- 🌱 I’m currently learning **Aspnet Core MVC .Net 6.0 & C#, APIS Ajax, jQuery and Javascript**.
+
+- 👨‍💻 All of my projects are available at [leoszm](https://github.com/leoszm?tab=repositories).
+
+- 💬 Ask me about **Aspnet Core with .Net 6.0, C#, APIs, PHP, Html5,<br> Css3 & JS**.
+
+- 📫 How to reach me **leonardosousa60.profissional@gmail.com**.
+<br>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;<i>An ordinary traveler with an insatiable curiosity...</i>&ensp;</h3>
+
+</div>
+<br><br>
+<hr>
+<br>
 <p align="center"><img width="50%" alt="Coding" src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif"></p>
   <div align= "center">
 <a href="https://ibb.co/vYChzvH">
