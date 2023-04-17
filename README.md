@@ -24,7 +24,7 @@
 <br><br>
 <br>
 <hr>
-<p align="center"><img src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif" alt="Coding" height="500" width="900" ></p>
+<p align="center"><img src="https://cdn.dribbble.com/users/1720977/screenshots/15369203/media/b046ce4bdb0f74d96055585b25550cfa.gif" alt="Coding" height="500" width="900" ></p>
 <hr>
 <div align="center">
   <h2> <strong> Actively Learning </strong></h2>
