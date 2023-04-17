@@ -65,7 +65,7 @@
 </div>
 -->
 <div align= "center">
-  <h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
+  <h2 align="center">🐱&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🐱</h2>
   <div> 
   <a href="https://www.linkedin.com/in/leticiaguimas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/leticiaguimas" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
