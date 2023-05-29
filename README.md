@@ -10,7 +10,7 @@
 
 - 🐱 I like to learn new things and ideas, technologies and meet new people!
 
-- 📖 I’m currently learning ** Power BI, Python, SQL **
+- 📖 I’m currently learning **Power BI, Python, SQL**.
 
 - 💻 All of my projects are available at [LeticiaGuimas](https://github.com/LeticiaGuimas?tab=repositories).
 
