@@ -6,15 +6,15 @@
 <br>
 - 👩‍💻 I'm studying technologist in Systems Analysis and Development.
 
-- 💼 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
+- 💼 I’m currently working at [BRADESCO](https://banco.bradesco/html/classic/index.shtm).
 
 - 🐱 I like to learn new things and ideas, technologies and meet new people!
 
-- 📖 I’m currently learning **Flutter, Python, Dart**.
+- 📖 I’m currently learning ** Power BI, Python, SQL **
 
 - 💻 All of my projects are available at [LeticiaGuimas](https://github.com/LeticiaGuimas?tab=repositories).
 
-- ☕️ Ask me about **Cats, Flutter, Dart, Python, MySql, Html5,<br> Css3 & JS**.
+- ☕️ Ask me about **Cats, Dashboards, Power BI, Python, SQL, Html5,<br> Css3 & JS**.
 
 - 💌 How to reach me **leticia_guimaraes2025@hotmail.com**.
 <br>
